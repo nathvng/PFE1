@@ -1,0 +1,11 @@
+//1. Declarando Variáveis
+//Crie três variáveis chamadas `nome`, `idade` e `cidade` e atribua valores a elas. Em seguida, exiba esses valores no console.
+
+var nome = "Nathália Venega";
+console.log(nome);
+
+var idade = 17 ;
+console.log(idade);
+
+var cidade = "Sorocaba";
+console.log(cidade);
